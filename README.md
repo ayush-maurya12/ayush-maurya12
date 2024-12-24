@@ -1,12 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&width=500&lines=Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&width=500&lines=This+is+Ayush+Maurya" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&width=500&height=80&lines=Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&width=500&height=80&lines=This+is+Ayush+Maurya" alt="Typing SVG" />
+</p>
 
 ---
-
+<br><br>
+<br><br>
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning dapp/web3 development
@@ -15,7 +16,8 @@
 - 💡 Always curious about problem-solving and creating impactful solutions
 
 ---
-
+<br><br>
+<br><br>
 ## 🌟 Featured Projects
 Here are a few of my favorite projects:
 - **[NETFLIX HOME PAGE CLONE](https://github.com/ayush-maurya12/Netflix_clone)**: Skill Building: Develop HTML and CSS proficiency by replicating Netflix’s interface.  
@@ -25,9 +27,13 @@ Here are a few of my favorite projects:
   - **Role-Based Access Control (RBAC)**: Define two user roles: admin and student. Admins should have full control over the bookstore management functionalities such as adding, deleting.
 
 Check out my repositories for more!
+<br><br>
+<br><br>
+
 
 ---
-
+<br><br>
+<br><br>
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -43,7 +49,8 @@ Check out my repositories for more!
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Terminal" />
 </p>
-
+<br><br>
+<br><br>
 
 ---
 
