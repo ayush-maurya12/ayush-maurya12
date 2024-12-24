@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&width=435&lines=Hello+there+%F0%9F%91%8B;This+is+Ayush+Maurya" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&width=435&lines=This+is+Ayush+Maurya" alt="Typing SVG" />
 </h1>
 
 ---
