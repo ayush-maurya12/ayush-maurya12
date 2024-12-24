@@ -1,9 +1,31 @@
 <h1 align="center" style="color: #4CAF50; font-size: 50px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.4);">
-  Hello there 👋
+  <span id="typing-effect-h1">Hello there 👋</span>
 </h1>
 <h2 align="center" style="color: #555; font-size: 35px; font-weight: normal; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
-  This is Ayush Maurya
+  <span id="typing-effect-h2">This is Ayush Maurya</span>
 </h2>
+
+<script>
+  // Typing effect for H1 and H2
+  function typeEffect(elementId, text, delay) {
+    const element = document.getElementById(elementId);
+    let i = 0;
+    function type() {
+      if (i < text.length) {
+        element.textContent += text.charAt(i);
+        i++;
+        setTimeout(type, delay);
+      }
+    }
+    type();
+  }
+
+  // Apply typing effect
+  document.addEventListener("DOMContentLoaded", function() {
+    typeEffect("typing-effect-h1", "Hello there 👋", 100);
+    setTimeout(() => typeEffect("typing-effect-h2", "This is Ayush Maurya", 100), 1500);
+  });
+</script>
 
 ---
 
@@ -28,24 +50,21 @@ Check out my repositories for more!
 
 ---
 
-## 🛠️ Programming Languages & Technologies
-Here’s what I work with:
+## 🛠️ Languages and Tools
 
-### **Languages**
-- **JavaScript**  
-- **C/C++(Basic)**  
-- **(Core)Java**
-
-### **Web Development**
-- Frontend: **HTML5**, **CSS**, **React.js**,
-- Backend: **Node.js**, **Express.js**
-
-### **Databases**
-- **MySQL**  
-- **MongoDB**
-
-### **Version Control**
-- **Git**, **GitHub**
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-ethereum-an-open-source-blockchain-with-smart-contracts-cryptocurrency-color-tal-revivo.png" alt="Ethereum" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Terminal" />
+</p>
 
 ---
 
