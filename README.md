@@ -9,7 +9,7 @@
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-maurya12&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-maurya12" /> </p>
+
 <br><br>
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on web development
@@ -81,6 +81,8 @@ Check out my repositories for more!
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush-maurya12&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-maurya12" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ayush-maurya12&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-maurya12&theme=radical" alt="GitHub Streak Stats" />
