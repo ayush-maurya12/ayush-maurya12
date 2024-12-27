@@ -9,6 +9,7 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-maurya12&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-maurya12" /> </p>
 <br><br>
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on web development
