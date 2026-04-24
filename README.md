@@ -90,14 +90,14 @@ A full-featured social platform where users **earn crypto** for engagement.
 </td>
 <td width="50%" valign="top">
 
-### 🔗 Crypto MLM Platform
-A full MERN stack multi-level marketing system with **automated blockchain payouts**.
+### 🔗 Decentralized Referral Rewards Platform
+A full MERN stack platform with **automated blockchain-based reward distribution**.
 
 **Highlights:**
-- Multi-level referral tree with auto income distribution
-- Blockchain transaction verification
+- Multi-level referral system with automated reward distribution
+- Blockchain-based transaction verification
 - Admin dashboards with analytics
-- Secure wallet-based transactions
+- Secure wallet-integrated transactions
 
 `MERN Stack` `Web3.js` `Smart Contracts` `MongoDB`
 
